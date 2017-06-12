@@ -1,7 +1,7 @@
-package com.example.mohamedabdelaziz.myapplication;
+package com.example.mohamedelaraby.myapplication;
 
 /**
- * Created by Mohamed Abd Elaziz on 6/12/2017.
+ * Created by Mohamed Elaraby on 6/12/2017.
  */
 
 class Distance {

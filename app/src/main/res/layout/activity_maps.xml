@@ -78,7 +78,7 @@
     android:name="com.google.android.gms.maps.SupportMapFragment"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.mohamedabdelaziz.myapplication.MapsActivity" />
+    tools:context="com.example.mohamedelaraby.myapplication.MapsActivity" />
     <Button
         android:id="@+id/Search_B"
         android:layout_width="60dp"
